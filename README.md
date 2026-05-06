@@ -4,7 +4,7 @@
 
 ## 前置准备
 
-### 0. 安装 Playwright
+### 0. 为agent安装 Playwright 插件
 
 ## 使用流程
 
