@@ -1,0 +1,98 @@
+{
+  "food": "郴州鱼粉",
+  "total_posts": 4,
+  "local_favorites": [
+    {
+      "restaurant": "满哥鱼粉",
+      "evidence": "本地人明确推荐，一去满哥鱼粉就必吃鱼粉，甚至常去吃，说是他家的鱼粉有味。多个本地人表示满哥比金国、小玲都好吃",
+      "mentions": 3
+    },
+    {
+      "restaurant": "杨婆鱼粉",
+      "evidence": "评论说杨婆鱼粉比金国好吃。但作者问本地人说有的杨婆好吃，有的不好吃，说明口味因店而异",
+      "mentions": 2
+    },
+    {
+      "restaurant": "罗记鱼粉",
+      "evidence": "本地人说从金国到罗记再到现在的小玲，觉得一个比一个好吃。罗记是本地人认可的店铺",
+      "mentions": 2
+    },
+    {
+      "restaurant": "小玲鱼粉",
+      "evidence": "多个本地人推荐，有说小玲肉蛋粉一绝，有说比金国好吃",
+      "mentions": 3
+    },
+    {
+      "restaurant": "火车站正正鱼粉",
+      "evidence": "本地人推荐去吃火车站正正鱼粉",
+      "mentions": 1
+    },
+    {
+      "restaurant": "小柴火鱼干",
+      "evidence": "本地人推荐那小柴火鱼干好吃",
+      "mentions": 1
+    }
+  ],
+  "tourist_favorites": [
+    {
+      "restaurant": "金国鱼粉",
+      "evidence": "网上传得最多的郴州鱼粉店，很多游客会去。但本地人说本地人一般不吃这家",
+      "mentions": 4,
+      "warning": "本地人评价：瞎推荐，本地人一般不吃这家"
+    }
+  ],
+  "posts": [
+    {
+      "title": "探店|郴州|金国鱼粉",
+      "author": "英子长沙历险记",
+      "likes": 40,
+      "comments_count": 12,
+      "engagement_level": "中低赞（本地探店）",
+      "content": "鱼粉第一果然没错，价格7元/碗，粉软弹入味，没有鱼腥味，店内来吃的人很多，还有免费小菜和绿豆粥",
+      "url": "https://www.xiaohongshu.com/explore/696cc52e0000000009039538",
+      "local_comments": [
+        "杨婆鱼粉不比这好吃",
+        "本地人一般不吃这家",
+        "我是本地人就最爱吃他们家，但是离家太远了很少吃",
+        "那小柴火鱼干好吃"
+      ]
+    },
+    {
+      "title": "人在郴州，已经和老公出现分歧了",
+      "author": "我真的好爱碎碎念啊",
+      "likes": 39,
+      "comments_count": 74,
+      "engagement_level": "中低赞（本地讨论）",
+      "content": "我觉得鱼粉好吃，他觉得杀猪粉好吃",
+      "url": "https://www.xiaohongshu.com/explore/698077d10000000022021a17",
+      "local_comments": [
+        "去吃个火车站正正鱼粉",
+        "真正米饺"
+      ]
+    },
+    {
+      "title": "郴州鱼粉感觉满哥比金国好吃",
+      "author": "啾啾小啾啾",
+      "likes": 6,
+      "comments_count": 8,
+      "engagement_level": "低赞（本地对比）",
+      "content": "第一次吃金国没有满哥好吃，又想吃满哥了",
+      "url": "https://www.xiaohongshu.com/explore/69ef8c1e0000000023004893",
+      "local_comments": [
+        "一去满哥鱼粉就必吃鱼粉，甚至常去吃",
+        "网上传的金国小玲都没有满哥的好吃",
+        "从金国到罗记再到现在的小玲"
+      ]
+    },
+    {
+      "title": "长沙好吃的郴州栖凤渡鱼粉",
+      "author": "万岁万岁万万岁",
+      "likes": 436,
+      "comments_count": 111,
+      "engagement_level": "高赞（网红店-在长沙）",
+      "content": "店子有点隐蔽但挡不住粉是真好吃，香香的鱼粉加葱煎蛋",
+      "url": "https://www.xiaohongshu.com/explore/68eb3e3d0000000004002daf",
+      "note": "这是在长沙的郴州鱼粉店，不是郴州本地"
+    }
+  ]
+}

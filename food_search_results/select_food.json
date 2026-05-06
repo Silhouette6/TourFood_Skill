@@ -1,0 +1,95 @@
+{
+  "city": "郴州",
+  "keywords_used": ["郴州美食攻略", "郴州特色美食推荐"],
+  "total_posts": 8,
+  "posts": [
+    {
+      "keyword": "郴州美食攻略",
+      "engagement_level": "高赞",
+      "title": "谁能帮我从郴州打包一份这个🥹！！！！",
+      "content": "推荐日益森烧鸡公，还有其他美食小店",
+      "author": "小俊Ljj99",
+      "likes": 579,
+      "favorites": 0,
+      "comments_count": 114,
+      "url": "https://www.xiaohongshu.com/explore/698b3081000000000e00f722"
+    },
+    {
+      "keyword": "郴州美食攻略",
+      "engagement_level": "中高赞",
+      "title": "感觉是目前郴州top.1好吃的",
+      "content": "超级汤小姨甜品店推荐：娟姗奶大满贯、抹茶双皮奶、金汤火锅、糖油坨坨、纸皮烧卖",
+      "author": "岳麓区吃饭组长",
+      "likes": 407,
+      "favorites": 0,
+      "comments_count": 0,
+      "url": "https://www.xiaohongshu.com/explore/69440440000000001e001a36"
+    },
+    {
+      "keyword": "郴州美食攻略",
+      "engagement_level": "中低赞",
+      "title": "郴州｜本地人常吃的店～",
+      "content": "宏兴餐馆（苍蝇馆子）、圆圆家（牙签牛肉、糖醋排骨）、金牛湾马田私房菜（马田牛肉、豆腐）、白露塘杀猪粉、金龙夜市广场、喜阿婆地锅鸡",
+      "author": "是大老板啊",
+      "likes": 259,
+      "favorites": 0,
+      "comments_count": 0,
+      "url": "https://www.xiaohongshu.com/explore/69686454000000000e00d1dc"
+    },
+    {
+      "keyword": "郴州美食攻略",
+      "engagement_level": "低赞",
+      "title": "郴州苍蝇馆子第二弹 宏兴餐厅！！",
+      "content": "宏兴餐厅推荐：香麻鸡、麻婆豆腐、血鸭。地址在郴州市中心附属医院旁边。人均十几块，学生党福音",
+      "author": "换药大王",
+      "likes": 41,
+      "favorites": 0,
+      "comments_count": 0,
+      "url": "https://www.xiaohongshu.com/explore/684911a600000000220259bb"
+    },
+    {
+      "keyword": "郴州特色美食推荐",
+      "engagement_level": "高赞",
+      "title": "个人感觉是目前郴州最好吃的一家！！！！",
+      "content": "柴火人家推荐：鱼籽鱼泡火锅、全家福火锅、柴火饭、现炒湘菜、各种小吃。十几年老店，冬日必吃",
+      "author": "Single去冰三分甜",
+      "likes": 3769,
+      "favorites": 0,
+      "comments_count": 0,
+      "url": "https://www.xiaohongshu.com/explore/69207f34000000001e0116e2"
+    },
+    {
+      "keyword": "郴州特色美食推荐",
+      "engagement_level": "中高赞",
+      "title": "来郴州不吃这个，等于白来了！！！！",
+      "content": "柴火人家推荐：金丝油塔、臭豆腐酱板鸭牛蛙一锅炖、纸皮烧麦、耗儿粉牛腩。人均60，性价比高",
+      "author": "喜欢喝咖啡乱拍照的大棒儿",
+      "likes": 673,
+      "favorites": 0,
+      "comments_count": 0,
+      "url": "https://www.xiaohongshu.com/explore/69cf4ebb000000001d01c77a"
+    },
+    {
+      "keyword": "郴州特色美食推荐",
+      "engagement_level": "低赞",
+      "title": "郴州本地人觉得不错的美食",
+      "content": "早餐推荐：杀猪粉（粥王店，白露塘创始店）、鱼粉（南湖路）、油条配煎蛋。正餐推荐：稻谷熟了、竹山里、江边湾、顶家家、东来顺、杨大厨、来家。小吃：油粑、瓜片、米饺、各种糍粑",
+      "author": "奔跑的小猫",
+      "likes": 27,
+      "favorites": 0,
+      "comments_count": 0,
+      "url": "https://www.xiaohongshu.com/explore/699ad03e000000001600bad7"
+    },
+    {
+      "keyword": "郴州特色美食推荐",
+      "engagement_level": "中高赞",
+      "title": "感觉是郴州目前top1好吃的！！！！！！",
+      "content": "郑友财推荐：酱板鸭牛蛙、猪脚炒饭、咸蛋黄鸡翅。分量扎实，人均35，价格亲民，锅气十足",
+      "author": "糯米就是Nommy",
+      "likes": 1147,
+      "favorites": 0,
+      "comments_count": 0,
+      "url": "https://www.xiaohongshu.com/explore/697c79d5000000002102bc84"
+    }
+  ]
+}
