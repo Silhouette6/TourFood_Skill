@@ -1,0 +1,120 @@
+{
+  "commands": [
+    {
+      "step_id": "search-1",
+      "type": "search",
+      "command": "xhs search \"梧州河粉\" --page 1 --json",
+      "keyword": "梧州河粉",
+      "page": 1,
+      "executed_at": "2026-05-18T12:08:11.184795"
+    },
+    {
+      "step_id": "read-1",
+      "type": "read",
+      "command": "xhs read 18 --json",
+      "selected_index": 18,
+      "engagement_level": "高赞",
+      "note_id": "6839d4a7000000000f039503",
+      "note_url": "https://www.xiaohongshu.com/explore/6839d4a7000000000f039503",
+      "executed_at": "2026-05-18T12:08:11.184795"
+    },
+    {
+      "step_id": "comments-1",
+      "type": "comments",
+      "command": "xhs comments 18 --all --json",
+      "selected_index": 18,
+      "comments_fetched": 104,
+      "executed_at": "2026-05-18T12:08:11.184795"
+    },
+    {
+      "step_id": "read-2",
+      "type": "read",
+      "command": "xhs read 4 --json",
+      "selected_index": 4,
+      "engagement_level": "高赞",
+      "note_id": "69359bf7000000001e0384d1",
+      "note_url": "https://www.xiaohongshu.com/explore/69359bf7000000001e0384d1",
+      "executed_at": "2026-05-18T12:08:11.184795"
+    },
+    {
+      "step_id": "comments-2",
+      "type": "comments",
+      "command": "xhs comments 4 --all --json",
+      "selected_index": 4,
+      "comments_fetched": 34,
+      "executed_at": "2026-05-18T12:08:11.184795"
+    },
+    {
+      "step_id": "read-3",
+      "type": "read",
+      "command": "xhs read 2 --json",
+      "selected_index": 2,
+      "engagement_level": "低赞",
+      "note_id": "69d7c62500000000230119eb",
+      "note_url": "https://www.xiaohongshu.com/explore/69d7c62500000000230119eb",
+      "executed_at": "2026-05-18T12:08:11.184795"
+    },
+    {
+      "step_id": "comments-3",
+      "type": "comments",
+      "command": "xhs comments 2 --all --json",
+      "selected_index": 2,
+      "comments_fetched": 6,
+      "executed_at": "2026-05-18T12:08:11.184795"
+    },
+    {
+      "step_id": "read-4",
+      "type": "read",
+      "command": "xhs read 3 --json",
+      "selected_index": 3,
+      "engagement_level": "中高赞",
+      "note_id": "69c8bdb20000000023012f18",
+      "note_url": "https://www.xiaohongshu.com/explore/69c8bdb20000000023012f18",
+      "executed_at": "2026-05-18T12:08:11.184795"
+    },
+    {
+      "step_id": "comments-4",
+      "type": "comments",
+      "command": "xhs comments 3 --all --json",
+      "selected_index": 3,
+      "comments_fetched": 20,
+      "executed_at": "2026-05-18T12:08:11.184795"
+    },
+    {
+      "step_id": "read-5",
+      "type": "read",
+      "command": "xhs read 14 --json",
+      "selected_index": 14,
+      "engagement_level": "中低赞",
+      "note_id": "6a07eea0000000003502dcae",
+      "note_url": "https://www.xiaohongshu.com/explore/6a07eea0000000003502dcae",
+      "executed_at": "2026-05-18T12:08:11.184795"
+    },
+    {
+      "step_id": "comments-5",
+      "type": "comments",
+      "command": "xhs comments 14 --all --json",
+      "selected_index": 14,
+      "comments_fetched": 22,
+      "executed_at": "2026-05-18T12:08:11.184795"
+    },
+    {
+      "step_id": "read-6",
+      "type": "read",
+      "command": "xhs read 12 --json",
+      "selected_index": 12,
+      "engagement_level": "低赞",
+      "note_id": "6842448f000000002100d86b",
+      "note_url": "https://www.xiaohongshu.com/explore/6842448f000000002100d86b",
+      "executed_at": "2026-05-18T12:08:11.184795"
+    },
+    {
+      "step_id": "comments-6",
+      "type": "comments",
+      "command": "xhs comments 12 --all --json",
+      "selected_index": 12,
+      "comments_fetched": 19,
+      "executed_at": "2026-05-18T12:08:11.184795"
+    }
+  ]
+}

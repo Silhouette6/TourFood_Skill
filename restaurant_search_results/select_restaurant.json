@@ -1,98 +1,1643 @@
 {
-  "food": "郴州鱼粉",
-  "total_posts": 4,
+  "food": "梧州河粉",
+  "total_posts": 6,
   "local_favorites": [
     {
-      "restaurant": "满哥鱼粉",
-      "evidence": "本地人明确推荐，一去满哥鱼粉就必吃鱼粉，甚至常去吃，说是他家的鱼粉有味。多个本地人表示满哥比金国、小玲都好吃",
-      "mentions": 3
+      "name": "瘦鬼钊(万寿宫菜市)",
+      "evidence": "评论[92]'回到老家落地第1碗河粉是瘦鬼钊'；评论[58]'第一家瘦鬼钊吧？好怀念'；出现在多个帖子的本地人推荐中"
     },
     {
-      "restaurant": "杨婆鱼粉",
-      "evidence": "评论说杨婆鱼粉比金国好吃。但作者问本地人说有的杨婆好吃，有的不好吃，说明口味因店而异",
-      "mentions": 2
+      "name": "九记",
+      "evidence": "评论'旁边九记比它好吃'；评论[19]'九记比较好吃，适合大部分人的口味'；本地人口吻推荐"
     },
     {
-      "restaurant": "罗记鱼粉",
-      "evidence": "本地人说从金国到罗记再到现在的小玲，觉得一个比一个好吃。罗记是本地人认可的店铺",
-      "mentions": 2
+      "name": "野猪林",
+      "evidence": "评论[10]'我个人最喜欢野猪林，小众了没人推荐'；评论[16]'野猪林好吃，做梦都在想'；评论[17]补充提及"
     },
     {
-      "restaurant": "小玲鱼粉",
-      "evidence": "多个本地人推荐，有说小玲肉蛋粉一绝，有说比金国好吃",
-      "mentions": 3
+      "name": "炳记牛味粉店",
+      "evidence": "评论'推荐炳记'；评论[1]博主整理本地人推荐清单"
     },
     {
-      "restaurant": "火车站正正鱼粉",
-      "evidence": "本地人推荐去吃火车站正正鱼粉",
-      "mentions": 1
+      "name": "白屋巷财记老友粉",
+      "evidence": "评论'白屋巷YYDS'；正文列具体店名和地址"
     },
     {
-      "restaurant": "小柴火鱼干",
-      "evidence": "本地人推荐那小柴火鱼干好吃",
-      "mentions": 1
+      "name": "四妹粉店",
+      "evidence": "评论'以前叫四妹粉店才好吃而且便宜五块钱一碗牛腩粉'"
+    },
+    {
+      "name": "松记粉店",
+      "evidence": "正文描述'性价比之王'，'三宝粉'推荐"
+    },
+    {
+      "name": "大东小学对面牛肠粉",
+      "evidence": "评论'过小小大东小学对面牛肠粉7元'"
+    },
+    {
+      "name": "亚周",
+      "evidence": "评论提及'亚周'，为本地店名"
+    },
+    {
+      "name": "林兴",
+      "evidence": "评论[17]'没有野猪林、瘦鬼钊、林兴'"
+    },
+    {
+      "name": "老牛",
+      "evidence": "评论'我喜欢老牛的'"
+    },
+    {
+      "name": "京梧凤妹老友粉",
+      "evidence": "评论'京梧凤妹老友粉，绝了'"
     }
   ],
   "tourist_favorites": [
     {
-      "restaurant": "金国鱼粉",
-      "evidence": "网上传得最多的郴州鱼粉店，很多游客会去。但本地人说本地人一般不吃这家",
-      "mentions": 4,
-      "warning": "本地人评价：瞎推荐，本地人一般不吃这家"
+      "name": "超记",
+      "evidence": "评论'超记除了贵应该踩不到雷'；高赞帖中出现，被本地人和游客共同提及但价格偏高"
+    },
+    {
+      "name": "昌记粉店",
+      "evidence": "虽在多处被推荐，但评论也出现大量负面评价（'又贵又咸''难吃'），且评论[1]有人称'旁边九记比它好吃'；被个别本地人喜欢但争议大"
+    },
+    {
+      "name": "芳记(大中路)",
+      "evidence": "评论'芳记一般般'；'芳记的确麻麻哋'；'最难食就是芳记'；多个本地人负面评价"
+    },
+    {
+      "name": "高妹卤味粉店(西门口)",
+      "evidence": "评论'强烈推荐高妹'但也有'4walls'等混淆，高赞帖中出现"
+    },
+    {
+      "name": "锦记老友粉",
+      "evidence": "高赞帖中出现，'只营业上午太早收档'；游客打卡类"
     }
   ],
   "posts": [
     {
-      "title": "探店|郴州|金国鱼粉",
-      "author": "英子长沙历险记",
-      "likes": 40,
-      "comments_count": 12,
-      "engagement_level": "中低赞（本地探店）",
-      "content": "鱼粉第一果然没错，价格7元/碗，粉软弹入味，没有鱼腥味，店内来吃的人很多，还有免费小菜和绿豆粥",
-      "url": "https://www.xiaohongshu.com/explore/696cc52e0000000009039538",
-      "local_comments": [
-        "杨婆鱼粉不比这好吃",
-        "本地人一般不吃这家",
-        "我是本地人就最爱吃他们家，但是离家太远了很少吃",
-        "那小柴火鱼干好吃"
-      ]
+      "restaurant": [
+        "瘦鬼钊(万寿宫菜市)",
+        "龙记牛杂店/龙记小食(步埠路)",
+        "芳记(大中路)",
+        "高妹卤味粉店(西门口)",
+        "昌记",
+        "超记"
+      ],
+      "engagement_level": "高赞",
+      "classification": "tourist",
+      "title": "200在梧州吃一天河粉，看看能吃多少东西！",
+      "content": "﻿#梧州美食[话题]#﻿ ﻿#跟我来探店[话题]#﻿ ﻿#广西美食[话题]#﻿ ﻿#哎捧油们跟我一起200圆子吃一天[话题]#﻿",
+      "author": "明明闲不住",
+      "likes": 2485,
+      "favorites": 482,
+      "comments_count": 185,
+      "comments": [
+        {
+          "author": "momo",
+          "content": "课代表有没有店名啊？下个月准备去",
+          "like_count": "5",
+          "comment_id": "",
+          "sub_comment_count": "13"
+        },
+        {
+          "author": "peti",
+          "content": "最后的粉店是哪家？我又想去食下[汗颜R]",
+          "like_count": "7",
+          "comment_id": "",
+          "sub_comment_count": "8"
+        },
+        {
+          "author": "满月居于空",
+          "content": "30元一个粉[石化R]",
+          "like_count": "5",
+          "comment_id": "",
+          "sub_comment_count": "7"
+        },
+        {
+          "author": "我是華哥e",
+          "content": "这家对面的更好吃[暗中观察R]",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "5"
+        },
+        {
+          "author": "Marcus",
+          "content": "呢度系广州广西分州[笑哭R] 又有白云山 又有西门口",
+          "like_count": "21",
+          "comment_id": "",
+          "sub_comment_count": "4"
+        },
+        {
+          "author": "兜子",
+          "content": "啊啊啊啊啊啊好想念梧州",
+          "like_count": "2",
+          "comment_id": "",
+          "sub_comment_count": "2"
+        },
+        {
+          "author": "lvy",
+          "content": "第二家粉店是哪家？听日想食完翻广州[哇R]",
+          "like_count": "4",
+          "comment_id": "",
+          "sub_comment_count": "12"
+        },
+        {
+          "author": "momo",
+          "content": "没吃过梧州的肠粉将是一大损失[doge]",
+          "like_count": "16",
+          "comment_id": "",
+          "sub_comment_count": "6"
+        },
+        {
+          "author": "我虾饺你个菠萝包",
+          "content": "广西河粉最好吃！本广东人认证不接受反驳",
+          "like_count": "47",
+          "comment_id": "",
+          "sub_comment_count": "3"
+        },
+        {
+          "author": "呀哈哈~",
+          "content": "fx的4walls, 有品[赞R]",
+          "like_count": "2",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "彦",
+          "content": "梧州超记，昌记",
+          "like_count": "2",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "Liz在路上",
+          "content": "果然去佐二职中[doge]特别多学生中意去食[暗中观察R]",
+          "like_count": "6",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "大尉1981",
+          "content": "第一家：河东，万寿宫菜市，瘦龟钊。第二家：河西，步埠路二职中对面小吃巷，龙记牛杂店（龙记小食）。第三家，河东，大中路，芳记。第四家，未能吃的店，河东，西门口，高妹卤味粉店[哇R][哇R][哇R][哇R][点赞R][点赞R][点赞R][点赞R][玫瑰R][玫瑰R][玫瑰R][玫瑰R]",
+          "like_count": "10",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "我渴望日日夜夜轻轻松松朦朦胧胧",
+          "content": "海南那边的粉也是这样薄薄的超好吃！！！在珠海吃到的都是厚粉",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "知一",
+          "content": "欢迎来岑溪吃米粉",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "不要叫我波波儿",
+          "content": "正啊正啊睇到流晒口水[哇R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "Xin苒h",
+          "content": "想知道第一家汤粉是哪间店[偷笑R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "momo",
+          "content": "梧州的河粉不用说的",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "Ocean",
+          "content": "睇颜色就知道河粉唔得",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "梁大大大大",
+          "content": "点解一两腐竹粉加牛肉收我16？",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "bb",
+          "content": "颜值穿搭博主小明又回来了",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "^O^ 霍霍 ^O^",
+          "content": "边条友讲普通话[笑哭R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "成都骗z曾昌吉",
+          "content": "第一家真的很一般，还没有亚周好吃[抠鼻R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "吨妹摊",
+          "content": "梧州人觉得你系真正识食既[偷笑R]。",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "安勝宝饰",
+          "content": "吃到我要吃吗叮林[哭惹R]还想吃",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "龙应该藏在云里",
+          "content": "昌记的粉更好吃",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "💛💛💛",
+          "content": "最难食就是芳记",
+          "like_count": "2",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "太霏糖",
+          "content": "哈哈哈哈哈哈终于到梧州啦",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "小红糖yy",
+          "content": "梧州欢迎您[色色R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "宅家的第N天",
+          "content": "来桂林啊，粉丝求合影。",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "砸了块肉",
+          "content": "看了又想去了[暗中观察R]梧州的河粉真的好好吃喔[色色R][色色R][色色R][色色R][色色R][色色R][色色R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "momo",
+          "content": "bgm是mirror耶",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "米郁我个左后视镜！！",
+          "content": "[doge]平时系迷好多人来食咖？\n系啊，食完啲人都走咗啦……\n哈哈哈哈哈哈啊哈哈哈[大笑R][大笑R][大笑R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "哩哩🍐",
+          "content": "明明宜家幸福肥到第一眼都冇认出黎[doge]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "LuLu酱",
+          "content": "既然去咗万寿宫，就应该去埋白屋巷食窝粉[偷笑R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "每天睡不够啊",
+          "content": "两年没回来梧州的我吃了一个月河粉都不腻 我太想念家乡河粉了，系深圳粉好厚唔想吃",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "小魔女奈奈",
+          "content": "我又想去",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "小红薯649D2593",
+          "content": "BGM太棒[害羞R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "偷喝可乐",
+          "content": "@偷喝偷喝可乐的可乐 我要吃粉",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "曾曾曾zzz",
+          "content": "@vvvvvvia 小明越来越帅啦",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "Yuki🥕",
+          "content": "@九十一升 我要吃薄河粉[哭惹R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "小驴狗狗",
+          "content": "@cliché 我们安排河粉了不",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "什么时候吃饭",
+          "content": "@no",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "快乐岛-",
+          "content": "@葡挞王子🐝",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "食少d饼干",
+          "content": "@Into contact",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "Mmmmmm",
+          "content": "手表是哪一款啊[赞R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "流逝！过去",
+          "content": "半夜刷到流口水🤤",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "此号不用了勿艾特",
+          "content": "第一家店我小时候就在那个吃云吞来着",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "无人区🥕胡萝卜",
+          "content": "小时候回梧州，特别喜欢吃河粉。那个汤真的猪骨熬出来的[哭惹R][哭惹R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "还是简单点好",
+          "content": "@爱吃豆包（见过周杰伦版）",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "M for Marvis",
+          "content": "我已经Mark低！我爱河粉！",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "发财🐱",
+          "content": "@福禄自然来！",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "一咩咩",
+          "content": "我靠好帅啊[呃R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "油爆枇杷拌蛰面",
+          "content": "看着就好好吃",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "鹅毛鳄梨",
+          "content": "哩个功能，get，下次出去玩就用哩个",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "蓝琉璃",
+          "content": "商务明[萌萌哒R][萌萌哒R][萌萌哒R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "冰冰凉",
+          "content": "强烈推荐高妹[偷笑R]",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "系条条啊～",
+          "content": "第一家瘦鬼钊吧？好怀念",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "哇塞!💛是Alinlin耶",
+          "content": "就有很多烫粉都是这种[暗中观察R]来柳州",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "慢慢星球",
+          "content": "你去的店我都没去过呢",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "玩儿",
+          "content": "4walls!",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "小瑜",
+          "content": "第二家在哪里",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "小瑜",
+          "content": "你什么时候来的[哭惹R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "什么马",
+          "content": "小明新皮肤好看",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "腊肠配咸菜🌮",
+          "content": "好帅呀[飞吻R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "将太郎味仙",
+          "content": "@🎀 @小圆肚子. 想吃[色色R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "2"
+        },
+        {
+          "author": "吃瓜到头上",
+          "content": "扣肉皮唔好吃",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "Charmaine024",
+          "content": "正",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "粽子酱",
+          "content": "小明来南宁啊",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "可乐还是咖啡",
+          "content": "搞到我又想翻梧州吃粉[害羞R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "FREEYAI.",
+          "content": "去我大梧州了[爱心R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "小红薯🍠",
+          "content": "梧州粉，正啊",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "犯困小荷花🐽",
+          "content": "BGM好评",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "Liie_eove ⭐",
+          "content": "好饿！",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "呼吸这一秒的空气",
+          "content": "@西番柿子",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "2"
+        },
+        {
+          "author": "-九又九",
+          "content": "湛江茂名个边粉都喺咁薄嘅",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "puppy🌾",
+          "content": "昌记去试试啊小明[doge]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "唔係好沙陈小姐",
+          "content": "没事没事没事没事没事没事～～我喝个水[偷笑R]。好可爱。",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "Ai 🍐",
+          "content": "请你到龙圩吃“为一”老友粉. 无人能敌",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "ParadisEgOn",
+          "content": "芳记的确麻麻哋",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "owo",
+          "content": "@橘 老公来娶我了",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "Superrrrr车厘",
+          "content": "@AAA建材王姐 又拍梧州bgm 仲系函数爱了爱了",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "薯条🍟叔叔",
+          "content": "粉好吃",
+          "like_count": "2",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "小太阳",
+          "content": "还有很多好吃的粉没吃哦，桂平猪脚粉，广益记窝粉，炒粉利，白切鸡粉 三中肠粉，超超超牛排粉，三品王牛肉粉，老牛记粉店，漓江孟江桂林米粉等等，除了粉还有其他美食，等你来品尝[微笑R]",
+          "like_count": "2",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "CC",
+          "content": "哇终于来到了我的家乡",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "要乐奈",
+          "content": "@Ningyu070 @小漫君 @Supercat @夏伯阳（RMUC东部版 @月海o0O @小红薯673FD165 @AutumnRainLF @Erich @逃离双下巴",
+          "like_count": "3",
+          "comment_id": "",
+          "sub_comment_count": "2"
+        },
+        {
+          "author": "KiiinBY",
+          "content": "芳记好一般",
+          "like_count": "3",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "往事如风",
+          "content": "物价，睇佢同边度嘅人讲啰，对于本地人来讲有啲贵。",
+          "like_count": "3",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "小短腿",
+          "content": "我钟意吃到要买干粉[暗中观察R]",
+          "like_count": "2",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "minoz",
+          "content": "吃这么多粉记得喝祛湿茶，可以去蚂蟥街饮鬼佬凉茶，凉茶加咖啡好喝[偷笑R]",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "芋头糖",
+          "content": "来又不出声，中意你好耐了[飞吻R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "清扬",
+          "content": "我回到老家，落地第1碗河粉是瘦鬼钊。",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "没烦恼很幸福",
+          "content": "@旺旺脆冰冰",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "2"
+        },
+        {
+          "author": "tao🍑🐷🐷🥕",
+          "content": "龙记老友炒的确好吃[偷笑R][偷笑R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "Cknow",
+          "content": "芳记一般般，超记除了贵应该踩不到雷",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "蓝＆＆",
+          "content": "梧州河粉我都觉得好吃又薄！",
+          "like_count": "2",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "我家有喵喵喵",
+          "content": "恩平也是这种薄河粉",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "清淡",
+          "content": "上次去梧州，喝那个冰泉豆浆，好好喝！念念不忘！推荐博主试试！[色色R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "GodNich",
+          "content": "4walls",
+          "like_count": "2",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "一颗冰块",
+          "content": "我老家的粉 无敌[哭惹R][飞吻R][偷笑R]",
+          "like_count": "2",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "WongManPing",
+          "content": "腐竹粉 ，我最爱腐竹粉。粉出咗梧州食唔到，腐竹粉都都系[doge]",
+          "like_count": "3",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "hhhhheidi",
+          "content": "看饿了[哭惹R][黄金薯R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "Leanne",
+          "content": "30蚊三个人好平！",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "别吃了",
+          "content": "京梧凤妹老友粉，绝了",
+          "like_count": "2",
+          "comment_id": "",
+          "sub_comment_count": "3"
+        }
+      ],
+      "note_id": "6839d4a7000000000f039503",
+      "url": "https://www.xiaohongshu.com/explore/6839d4a7000000000f039503",
+      "local_analysis": "高赞视频帖，正文仅标签无具体店名。但评论中有极丰富的本地人推荐：评论[13]详细列出4家店（瘦鬼钊万寿宫菜市、龙记牛杂店步埠路二职中、芳记大中路、高妹卤味粉店西门口）；评论[24]为梧州本地人称博主'识食'；评论[36]本地人思乡；评论[92]'回到老家落地第1碗河粉是瘦鬼钊'；评论[95]'芳记一般般，超记除了贵应该踩不到雷'；多家店在评论区被反复讨论（芳记被多位评论者评为一般，昌记和超记获推荐）。虽然帖子本身偏网红打卡风格，但评论区本地人参与度极高，提供了大量真实餐厅信息。"
     },
     {
-      "title": "人在郴州，已经和老公出现分歧了",
-      "author": "我真的好爱碎碎念啊",
-      "likes": 39,
-      "comments_count": 74,
-      "engagement_level": "中低赞（本地讨论）",
-      "content": "我觉得鱼粉好吃，他觉得杀猪粉好吃",
-      "url": "https://www.xiaohongshu.com/explore/698077d10000000022021a17",
-      "local_comments": [
-        "去吃个火车站正正鱼粉",
-        "真正米饺"
-      ]
+      "restaurant": [
+        "锦记老友粉/锦记饮食",
+        "老牛"
+      ],
+      "engagement_level": "高赞",
+      "classification": "tourist",
+      "title": "我爱梧州河粉！（两天吃粉日记🍜",
+      "content": "广州南1.5h直达梧州🚄\n小城周末吃粉慢慢走很轻松\n梧州河粉果然名不虚传🤤\n\t\n#梧州美食[话题]# #梧州探店[话题]# #老友粉[话题]# #快乐嗦粉[话题]#",
+      "author": "胡不二",
+      "likes": 859,
+      "favorites": 555,
+      "comments_count": 59,
+      "comments": [
+        {
+          "author": "花间一壶酒，独酌无相亲",
+          "content": "锦记饮食只营业上午，刚想去哈哈",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "6"
+        },
+        {
+          "author": "钱大海",
+          "content": "我喜欢老牛的",
+          "like_count": "2",
+          "comment_id": "",
+          "sub_comment_count": "5"
+        },
+        {
+          "author": "荔枝",
+          "content": "第二张干的叫什么呀",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "2"
+        },
+        {
+          "author": "一罐椰奶",
+          "content": "看饿了之后啊啊啊啊啊啊好想嗦河粉[石化R][哭惹R][哭惹R][哭惹R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "2"
+        },
+        {
+          "author": "太霏糖",
+          "content": "很少见全篇夸没有骂的[哇R][哇R][哇R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "jojo",
+          "content": "离了梧州吃不到那么细的河粉了[哭惹R]",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "kam kam 🍀",
+          "content": "請問下輕軌之後第一站去哪吃東西好？",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "吃不完",
+          "content": "上个月去了一次梧州，念念不忘梧州河粉[哭惹R][哭惹R][哭惹R][哭惹R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "GGGGGBABABABA",
+          "content": "姐妹，锦记老友粉好吃吗？明天到",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "火华",
+          "content": "锦记唔错就系太早收档[失望R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "🌸终其一生",
+          "content": "我也喜欢锦记[偷笑R]",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "可丽饼",
+          "content": "想回家了",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "momo",
+          "content": "甚是想念[哭惹R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "小红薯",
+          "content": "这是哪家呀！我也想去",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "小林兜圈",
+          "content": "你猜我馋哪个",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "请注意倒车",
+          "content": "超爱梧州的河粉，爽滑入味，跟腐竹绝配[赞R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "苦抹万岁",
+          "content": "识食[斜眼R]",
+          "like_count": "2",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "小红薯大番薯",
+          "content": "替我多吃几顿[笑哭R]好好想念",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "生肖属猫",
+          "content": "识货",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "yyy",
+          "content": "天 这个粉比老友还薄 好吸引",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "办公软件急救站",
+          "content": "[哭惹R]想家了",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "Zoey 不是 佐伊",
+          "content": "想家了＋1[哭惹R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "石原里免",
+          "content": "这周出发来了哈哈哈哈",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "三河",
+          "content": "这就是周末去哪玩吗",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "生日快乐",
+          "content": "求出微糖豆浆攻略",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "再饮绿豆冰",
+          "content": "羡慕了又",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "可乐还是咖啡",
+          "content": "我可以吃一个月粉",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "多多主理人",
+          "content": "@小橘😺多多🍊 我好想吃[哭惹R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "Superrrrr车厘",
+          "content": "@AAA耗材王总、 @Anson（待重啟版） 顶不住了@乜鬼都過敏",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "坏蛋理理我.",
+          "content": " @春序 好想吃",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "仔米仔米",
+          "content": "幸福了又",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "彤彤pig",
+          "content": " @裟椤丶 ",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "小红薯65332228",
+          "content": " @今天要早点睡 ",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "元宝",
+          "content": "@荷包胀同学",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        }
+      ],
+      "note_id": "69359bf7000000001e0384d1",
+      "url": "https://www.xiaohongshu.com/explore/69359bf7000000001e0384d1",
+      "local_analysis": "高赞帖，广州游客两日吃粉日记。正文未列具体店名。评论中锦记老友粉被多次提及（评论[1][9][10][11]），特点为只营业上午、太早收档；评论[2]推荐'老牛'。评论多为游客打卡和本地人思乡语气，缺少具体的本地人对本地店的比较讨论。归为网红/游客类。"
     },
     {
-      "title": "郴州鱼粉感觉满哥比金国好吃",
-      "author": "啾啾小啾啾",
-      "likes": 6,
-      "comments_count": 8,
-      "engagement_level": "低赞（本地对比）",
-      "content": "第一次吃金国没有满哥好吃，又想吃满哥了",
-      "url": "https://www.xiaohongshu.com/explore/69ef8c1e0000000023004893",
-      "local_comments": [
-        "一去满哥鱼粉就必吃鱼粉，甚至常去吃",
-        "网上传的金国小玲都没有满哥的好吃",
-        "从金国到罗记再到现在的小玲"
-      ]
+      "restaurant": [
+        "昌记粉店",
+        "九记(旁边)"
+      ],
+      "engagement_level": "低赞",
+      "classification": "tourist",
+      "title": "梧州昌记粉店｜本地人私藏的地道河粉",
+      "content": "梧州自驾必吃的昌记粉店，藏着最地道的河粉风味！粉皮薄滑柔韧，挂汁超入味￼￼￼。必点猪皮拼腐竹粉，腐竹吸满浓汤，猪皮软糯Q弹，扣肉也软烂不腻。汤底用老鸡与猪骨慢熬，鲜香醇厚，加秘制泡椒辣椒更开胃。性价比拉满，早市烟火气十足，来梧州别错过这口正宗味￼￼。#老店老味道[话题]# #值得为吃而去的小城[话题]# #梧州[话题]# #快乐嗦粉[话题]# #自驾游[话题]# #美食特种兵[话题]#",
+      "author": "爱吃芝士的芝士控🧀",
+      "likes": 12,
+      "favorites": 7,
+      "comments_count": 7,
+      "comments": [
+        {
+          "author": "濤濤",
+          "content": "很油，而且味道一般，旁边九记比它好吃",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "Mu1999",
+          "content": "贵到要死，D人又刁，特别系问你食几两阿个男的！下次都冇刁去！",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "🤴",
+          "content": "难吃",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "小明",
+          "content": "又贵又咸，吃过二次，整日都要饮水😂",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "巴黎城下的少年",
+          "content": "看那个汤就知道只有咸，鸡精",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "momo",
+          "content": "鸡难吃",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        }
+      ],
+      "note_id": "69d7c62500000000230119eb",
+      "url": "https://www.xiaohongshu.com/explore/69d7c62500000000230119eb",
+      "local_analysis": "标题虽称'本地人私藏'，但评论全部为负面本地评价：评论[1]'很油，味道一般，旁边九记比它好吃'；评论[2]嫌贵嫌态度差；评论[3-6]一致差评'难吃''又贵又咸''只有咸和鸡精'。所有评论者均以本地人口吻发言（用粤语/本地话），实际为营销帖被本地人揭穿。旁边九记被推荐为更好选择。"
     },
     {
-      "title": "长沙好吃的郴州栖凤渡鱼粉",
-      "author": "万岁万岁万万岁",
-      "likes": 436,
-      "comments_count": 111,
-      "engagement_level": "高赞（网红店-在长沙）",
-      "content": "店子有点隐蔽但挡不住粉是真好吃，香香的鱼粉加葱煎蛋",
-      "url": "https://www.xiaohongshu.com/explore/68eb3e3d0000000004002daf",
-      "note": "这是在长沙的郴州鱼粉店，不是郴州本地"
+      "restaurant": [
+        "瘦鬼钊牛腩粉",
+        "松记粉店",
+        "白屋巷财记老友粉",
+        "芝麻城大排档",
+        "捷记糖水",
+        "冰泉豆浆店",
+        "炳记牛味粉店",
+        "昌记粉店"
+      ],
+      "engagement_level": "中高赞",
+      "classification": "local",
+      "title": "广州人梧州初体验：始于河粉，陷于糖水 🍜",
+      "content": "🍜 河粉类\n瘦鬼钊牛腩粉\n来梧州的第一餐，直接颠覆了我对河粉的认知！这里的河粉薄、滑、细，吸满汤汁，和广州那种厚粗无味的河粉完全不是一回事。两份加肉才33r，叉烧是瘦叉，不甜不腻，肉香十足。\n松记粉店\n性价比之王！强推“三宝粉”，自助区的酸萝卜和酸豆角是点睛之笔。一碗粉分量很足，两人分着吃刚好。汤底鲜味十足。\n白屋巷财记老友粉 🔥\n本地人推荐。炒河粉一两粉分量就很足，那勺辣椒酱香到飞起，但实在太辣，我只能用筷子浅尝。\n---\n🍽️ 风味小馆类\n芝麻城大排档 🍗\n苍蝇小馆，本地人也扎堆来。强推白斩鸭，完全没有鸭骚味，肉质嫩滑到拼桌小姐姐以为是白切鸡！鸭肉铺了紫苏，去腥增香，味道一绝。\n马皇街卿记烧烤店 🍢\n蜜汁烧烤，广东人最爱的那个味。蜜汁炭烧鸡凤尾是广西特色，够香够入味。\n醒醒田螺 🐚\n点了一桌，有种吃九大簋的感觉，好多碟！田螺入味，汤汁浓郁，嗦起来很过瘾。\n福满油茶店 🫖\n第一次喝油茶，有姜味，微辣。油茶更像汤底，可搭万物。我们加了煎蛋，后来才知道这锅底还能做鸡煲、煮馄饨、煮面。\n贺州黄姨牛肠酸\n第一次吃这种牛杂。汤是酸的，配酱也是酸的，风味独特，开胃解腻。\n老记臭豆腐\n臭豆腐卖完了，试了另一种豆腐，酱汁很特别。\n---\n🥤🍧 饮品糖水类\n捷记糖水 🍧\n此行最惊艳！一人干了两碗还想打包。杏仁豆腐、栗子元肉、白果腐竹薏米、莲子红豆沙，均价6-7r。杏仁豆腐连不爱吃杏仁的人都能接受，盲点不踩雷！\n冰泉豆浆店 🥛\n豆浆带糊味，是明火熬煮的焦香，本地人叫“镬气”。糖分不能调，偏甜，油条泡着吃刚好。\n五福堂老梧州龟苓膏 🍮\n本地人说已成网红店，更推荐另一家“老梧州龟苓膏（骑楼城店）”。地址：五坊路5号，下次补上。\n冠记豆腐花\n白天没吃到冰泉豆腐花（卖光了），一直惦记着。晚上找到一家，结果是桂花糖水味冰豆腐花，不是我记忆里红糖水热豆腐花的味道。\n城南茶舍 🧋\n玫瑰六堡奶茶（微甜/热）",
+      "author": "富贵鱼鱼🐟",
+      "likes": 260,
+      "favorites": 301,
+      "comments_count": 89,
+      "comments": [
+        {
+          "author": "富贵鱼鱼🐟",
+          "content": "听劝！整理了一份评论区本地人安利的【梧州必吃清单】🧾\n这次行程太赶，好多店都没来得及吃！把大家推荐的都记下来了，下次去梧州专门冲这几家👇\n🥢粉面类\n●     炳记牛味粉店\n●     昌记粉店\n🍲硬菜类\n●     十一公牛排煲\n●     银记啫啫鸡\n●     七奇鸡煲\n感谢各位本地人的投喂！🙏",
+          "like_count": "2",
+          "comment_id": "",
+          "sub_comment_count": "4"
+        },
+        {
+          "author": "不只是无缘",
+          "content": "芝麻城大排档的焗鸡好吃。",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "11"
+        },
+        {
+          "author": "再无雪🍀🍀",
+          "content": "白屋巷YYDS。为什么去吃瘦鬼钊？偏甜，不好吃。推荐炳记",
+          "like_count": "4",
+          "comment_id": "",
+          "sub_comment_count": "15"
+        },
+        {
+          "author": "素手暖玉",
+          "content": "油茶鸡，油茶鱼都好吃。",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "3"
+        },
+        {
+          "author": "一拍心动",
+          "content": "梧州的河粉，只有梧州才能吃到，别的地方是吃不到的！",
+          "like_count": "4",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "迅记Jason",
+          "content": "居然去我家吃了，谢谢惠顾[害羞R]",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "8"
+        },
+        {
+          "author": "钱哆哆",
+          "content": "普通的一家店豆浆和粉都好吃好喝，醒醒田螺差评味道不咋滴",
+          "like_count": "2",
+          "comment_id": "",
+          "sub_comment_count": "5"
+        },
+        {
+          "author": "德捷工巧",
+          "content": "我一个梧州人，第1次到广州吃河粉的时候，同样非常震惊——怎么不一样的？天下乌鸦不是一般黑的吗[害羞R]",
+          "like_count": "5",
+          "comment_id": "",
+          "sub_comment_count": "4"
+        },
+        {
+          "author": "做个小太阳🌻",
+          "content": "梧州的粉买回来倒点花生油酱油也很好吃[笑哭R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "3"
+        },
+        {
+          "author": "大树🐾",
+          "content": "那个老记你不觉得贵吗？就几块豆腐",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "2"
+        },
+        {
+          "author": "momo",
+          "content": "食家[赞R]",
+          "like_count": "2",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "momo",
+          "content": "梧州的粉真的很好吃。拌猪脚姜也好吃",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "3"
+        },
+        {
+          "author": "一只菠萝油",
+          "content": "香芋排骨好吃",
+          "like_count": "2",
+          "comment_id": "",
+          "sub_comment_count": "3"
+        },
+        {
+          "author": "mo🍐",
+          "content": "那真的千人千味，桂花蜜豆腐花，我的爱[暗中观察R]每次回去或者有朋友来，都要带去品尝[得意R]",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "龙应该藏在云里",
+          "content": "我喜欢昌记[偷笑R]本地人",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "樱桃子Joan",
+          "content": "需要住宿吗？好玩吗",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "月亮饰品eas",
+          "content": "我就住在芝麻城大排档旁[微笑R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "E3333333",
+          "content": "哪家是必吃的！！！？？？",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "アカツキ",
+          "content": "@Humoresque [买爆R][买爆R][买爆R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "momo",
+          "content": "冰泉豆浆馆，豆浆甜度可以调的，有全糖，半糖，无糖可选",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        }
+      ],
+      "note_id": "69c8bdb20000000023012f18",
+      "url": "https://www.xiaohongshu.com/explore/69c8bdb20000000023012f18",
+      "local_analysis": "广州游客梧州美食攻略帖，正文详细列出具体店名及菜品。评论中本地人积极补充：评论[1]博主整理本地人推荐清单（炳记牛味粉店、昌记、十一公牛排煲、银记啫啫鸡、七奇鸡煲）；评论[3]本地人推荐炳记、说瘦鬼钊偏甜不好吃、白屋巷YYDS；评论[6]为迅记店主回复'居然去我家吃了'；评论[8]梧州本地人发言；评论[15]'我喜欢昌记 本地人'。虽为游客帖，但评论中本地人参与度高，提供了有价值的本地餐厅对比信息。校正为中高赞后归为本地候选。"
+    },
+    {
+      "restaurant": [
+        "亚周",
+        "超超超",
+        "野猪林",
+        "昌记",
+        "九记",
+        "瘦鬼钊",
+        "林兴",
+        "周桂强"
+      ],
+      "engagement_level": "中低赞",
+      "classification": "local",
+      "title": "来梧州 寻找一碗梦中情粉",
+      "content": "寻味梧州老街老店，找寻一碗梦中情粉。\n薄滑入味，汤鲜绵长，\n烟火人间，不过一碗梧州河粉。\n还有哪家好吃呢！？\n#梧州[话题]# #梧州打卡[话题]# #梧州骑楼城[话题]# #梧州河粉[话题]# #河粉[话题]# #牛腩粉[话题]# #腐竹粉[话题]#",
+      "author": "噗嗤一下",
+      "likes": 100,
+      "favorites": 108,
+      "comments_count": 56,
+      "comments": [
+        {
+          "author": "吃番茄酱不沾薯条",
+          "content": "梧州河粉是我这个广东人觉得最好吃的粉[笑哭R][笑哭R][笑哭R][笑哭R]去梧州两天每一顿都吃粉[笑哭R][笑哭R][笑哭R]绝了",
+          "like_count": "6",
+          "comment_id": "",
+          "sub_comment_count": "7"
+        },
+        {
+          "author": "ROMEO有啥吃啥",
+          "content": "没有五福。。",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "6"
+        },
+        {
+          "author": "Judy",
+          "content": "这些粉离得远吗？[偷笑R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "5"
+        },
+        {
+          "author": "momo",
+          "content": "梧州有没有那种切粉，就是很像肠粉的粉皮然后切成条，拌点芝麻香油",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "2"
+        },
+        {
+          "author": "噗嗤一下",
+          "content": "斥巨资 加多两碗 哈哈哈",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "余小黄长壮壮",
+          "content": "图片排名分先后吗，博主觉得哪些好吃呀😋",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "6"
+        },
+        {
+          "author": "特猫头🐱",
+          "content": "亚周",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "小开心",
+          "content": "梧州的炒粉也很好吃[偷笑R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "芝粥常樂",
+          "content": "这个不上榜么",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "3"
+        },
+        {
+          "author": "抽抽",
+          "content": "周桂强都去了，超超超不试一下嘛？我个人最喜欢野猪林，小众了，没人推荐",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "刘鸭比",
+          "content": "牛排粉呢[捂嘴笑R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "黄小蔓",
+          "content": "本地人某你食甘全。哈哈",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "土丫丫",
+          "content": "确实是会推荐的[拔草R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "噗嗤一下",
+          "content": "最近 斥巨资吃了十碗粉\n",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "て瑾色如弦",
+          "content": "为什么要诱惑我？[捂脸R]我想回家嗦粉啊！",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "爱吃猪大肠",
+          "content": "野猪林好吃[哭惹R] 做梦都在想",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "炫希",
+          "content": "没有野猪林、瘦鬼钊、林兴",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "Miaybb",
+          "content": "当之无愧昌记",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "幸运不断",
+          "content": "我倒是觉九记比较好吃，适合大部分的人的口味，值得一尝",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "(*ﾟﾛﾟ)!!",
+          "content": "你还是没有吃到我的梦中情粉[害羞R]但是我怕说了太多人以后回去吃不到了[害羞R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "0.ling🌸🌸🐭",
+          "content": "我都系就近沙街口[捂脸R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "奔…奔",
+          "content": "还有叉烧粉，还有窝粉，炒粉，煮粉……",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        }
+      ],
+      "note_id": "6a07eea0000000003502dcae",
+      "url": "https://www.xiaohongshu.com/explore/6a07eea0000000003502dcae",
+      "local_analysis": "寻找'梦中情粉'主题帖，正文无具体店名但有骑楼城老店语境。评论中本地人积极参与讨论：评论[10]'超超超不试一下嘛？我个人最喜欢野猪林，小众了没人推荐'；评论[16]'野猪林好吃，做梦都在想'；评论[17]列举'没有野猪林、瘦鬼钊、林兴'；评论[12]本地人说'本地人某你食甘全'；评论[19]'九记比较好吃，适合大部分人的口味'。评论中出现了多个之前帖子未提及的新店名（野猪林、林兴、亚周），显示本地人推荐的长尾店铺。"
+    },
+    {
+      "restaurant": [
+        "四妹粉店",
+        "大东小学对面牛肠粉"
+      ],
+      "engagement_level": "低赞",
+      "classification": "local",
+      "title": "梧州河粉不接受避雷！！！！！！！！",
+      "content": "作为土生土长的梧州人，梧州河粉口感细腻，粉状薄滑，简直yyds好吗？二两已经无法满足我了，直接上三两吧…… 梧州无论河粉还是其他都很好，不接受避雷！千人千味，每一座城都其独特的文化属性，可以不爱请不要拉踩！#梧州美食[话题]# #梧州很好[话题]###我爱梧州[话题]##",
+      "author": "JIAYIN",
+      "likes": 65,
+      "favorites": 47,
+      "comments_count": 55,
+      "comments": [
+        {
+          "author": "🏸糕艘",
+          "content": "冇错，我已经差唔多半年未食过河粉了[哭惹R]",
+          "like_count": "2",
+          "comment_id": "",
+          "sub_comment_count": "9"
+        },
+        {
+          "author": "依然饭特稀",
+          "content": "我专门去街边的无名小店[萌萌哒R]",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "2"
+        },
+        {
+          "author": "阿源",
+          "content": "",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "3"
+        },
+        {
+          "author": "嗯（一巡广州，二巡深圳有票版）",
+          "content": "如果要买净粉回去自己煮的，市场有卖嘛？还是那里有卖？",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "4"
+        },
+        {
+          "author": "momo",
+          "content": "哇，你发现了宝藏店铺，这家河粉应该是全梧州最便宜的了",
+          "like_count": "2",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "低耗车车坚持录",
+          "content": "在哪里",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "Jony-J",
+          "content": "梧州的河粉真的yyds，我广东过来，连续吃两天了",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "3"
+        },
+        {
+          "author": "小猫🐯",
+          "content": "路过没吃过[哭惹R]回来试一下",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "咖哆啡",
+          "content": "抵食",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "夏天笑眯眯🍉",
+          "content": "多的不说，价格很划算！",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "呢呢",
+          "content": "吗呀～距离我32米，赶紧洗漱完去试试[偷笑R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "浩辞",
+          "content": "好吃吗",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "See you .",
+          "content": "这家可惜离我家太远[笑哭R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "质爱",
+          "content": "过小小大东小学对面牛肠粉7元。",
+          "like_count": "1",
+          "comment_id": "",
+          "sub_comment_count": "2"
+        },
+        {
+          "author": "馬鈴薯頭小子",
+          "content": "只要是它们不喜欢吃，吃不习惯就避雷呗[笑哭R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "嘉言懿行",
+          "content": "码住",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "梧州美食家",
+          "content": "这个价格很亲民",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "0"
+        },
+        {
+          "author": "希oOo",
+          "content": "你快D撤回，我的宝藏河粉店[完啦R]",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "1"
+        },
+        {
+          "author": "梧州扶贫大使",
+          "content": "以前上一手的好像叫四妹粉店的才好吃而且便宜五块钱一碗牛腩粉",
+          "like_count": "0",
+          "comment_id": "",
+          "sub_comment_count": "3"
+        }
+      ],
+      "note_id": "6842448f000000002100d86b",
+      "url": "https://www.xiaohongshu.com/explore/6842448f000000002100d86b",
+      "local_analysis": "梧州本地人发帖维护家乡美食。正文称'土生土长的梧州人'，评论中本地人互动积极：评论[5]'这家河粉应该是全梧州最便宜的了'；评论[13]'这家可惜离我家太远'表明本地人视角；评论[14]'大东小学对面牛肠粉7元'补充具体地点；评论[19]'以前上一手的好像叫四妹粉店的才好吃而且便宜五块钱一碗牛腩粉'提到老店变迁和价格对比；评论[2]'我专门去街边的无名小店'反映本地人的真实饮食习惯。典型本地人视角帖子。"
     }
   ]
 }
