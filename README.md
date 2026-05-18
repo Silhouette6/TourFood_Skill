@@ -4,8 +4,6 @@
 
 ## 前置准备
 
-### 0. 为agent安装 Playwright 插件
-
 本项目依赖 [`jackwener/xiaohongshu-cli`](https://github.com/jackwener/xiaohongshu-cli) 提供的 `xhs` 命令。
 
 推荐使用 `uv tool` 安装，速度快且环境隔离：
